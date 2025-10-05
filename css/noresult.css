@@ -1,0 +1,8 @@
+.no-results {
+            text-align: center;
+            padding: 50px;
+            font-family: 'Battambang', sans-serif;
+            font-size: 18px;
+            color: #666;
+            grid-column: 1 / -1;
+        }
